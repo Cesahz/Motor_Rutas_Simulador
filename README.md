@@ -1,4 +1,4 @@
-# ⚙️ Motor Mahoraga: Simulador de Entornos y Optimización de Rutas A\*
+# ⚙️Simulador de Entornos y Optimización de Rutas A\*
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
 ![NumPy](https://img.shields.io/badge/NumPy-Optimized-success.svg)
